@@ -3,7 +3,7 @@
 
 
 // Linked List Class
-class LinkedList {
+class LL {
     Node head;
 
     // Create Node class to create node object
@@ -161,7 +161,7 @@ class LinkedList {
 
 public class LLQ1 {
     public static void main(String[] args) {
-        LinkedList list = new LinkedList();
+        LL list = new LL();
 
         // print empty linked list
         list.printLinkedList();
